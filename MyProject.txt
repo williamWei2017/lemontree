@@ -2,3 +2,4 @@ this is my first git project
 this change for test develpoer branch test
 this change is on conflict branch.
 this change is on master,set flag.
+this change is on developer,set flag.
