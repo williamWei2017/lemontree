@@ -4,3 +4,4 @@ this change is on conflict branch.
 this change is on master,set flag.
 this change is on developer,set flag.
 change on master,and ready push to origin master
+change on developer branch,and ready push to origin developer.
